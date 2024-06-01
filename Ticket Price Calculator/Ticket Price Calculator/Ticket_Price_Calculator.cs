@@ -6,7 +6,7 @@ class Ticket_Price_Calculator
 {
     static void Main()
     {
-        // Prompt the user to enter their age
+        // Prompt the user to enter their age f
         Console.Write("Enter your age: ");
         string input = Console.ReadLine();
 
