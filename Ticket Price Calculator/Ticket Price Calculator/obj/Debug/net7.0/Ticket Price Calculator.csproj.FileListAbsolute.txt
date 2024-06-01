@@ -1,0 +1,15 @@
+/Users/phinehasfreeman/Projects/Ticket Price Calculator/Ticket Price Calculator/bin/Debug/net7.0/Ticket Price Calculator
+/Users/phinehasfreeman/Projects/Ticket Price Calculator/Ticket Price Calculator/bin/Debug/net7.0/Ticket Price Calculator.deps.json
+/Users/phinehasfreeman/Projects/Ticket Price Calculator/Ticket Price Calculator/bin/Debug/net7.0/Ticket Price Calculator.runtimeconfig.json
+/Users/phinehasfreeman/Projects/Ticket Price Calculator/Ticket Price Calculator/bin/Debug/net7.0/Ticket Price Calculator.dll
+/Users/phinehasfreeman/Projects/Ticket Price Calculator/Ticket Price Calculator/bin/Debug/net7.0/Ticket Price Calculator.pdb
+/Users/phinehasfreeman/Projects/Ticket Price Calculator/Ticket Price Calculator/obj/Debug/net7.0/Ticket Price Calculator.csproj.AssemblyReference.cache
+/Users/phinehasfreeman/Projects/Ticket Price Calculator/Ticket Price Calculator/obj/Debug/net7.0/Ticket Price Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phinehasfreeman/Projects/Ticket Price Calculator/Ticket Price Calculator/obj/Debug/net7.0/Ticket Price Calculator.AssemblyInfoInputs.cache
+/Users/phinehasfreeman/Projects/Ticket Price Calculator/Ticket Price Calculator/obj/Debug/net7.0/Ticket Price Calculator.AssemblyInfo.cs
+/Users/phinehasfreeman/Projects/Ticket Price Calculator/Ticket Price Calculator/obj/Debug/net7.0/Ticket Price Calculator.csproj.CoreCompileInputs.cache
+/Users/phinehasfreeman/Projects/Ticket Price Calculator/Ticket Price Calculator/obj/Debug/net7.0/Ticket Price Calculator.dll
+/Users/phinehasfreeman/Projects/Ticket Price Calculator/Ticket Price Calculator/obj/Debug/net7.0/refint/Ticket Price Calculator.dll
+/Users/phinehasfreeman/Projects/Ticket Price Calculator/Ticket Price Calculator/obj/Debug/net7.0/Ticket Price Calculator.pdb
+/Users/phinehasfreeman/Projects/Ticket Price Calculator/Ticket Price Calculator/obj/Debug/net7.0/Ticket Price Calculator.genruntimeconfig.cache
+/Users/phinehasfreeman/Projects/Ticket Price Calculator/Ticket Price Calculator/obj/Debug/net7.0/ref/Ticket Price Calculator.dll
